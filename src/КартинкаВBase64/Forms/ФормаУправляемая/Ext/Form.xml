@@ -18,6 +18,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПутьКФайлуКартинкиКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ПутьКФайлуКартинкиРасширеннаяПодсказка" id="3"/>
+			<Events>
+				<Event name="StartChoice">ПутьКФайлуКартинкиНачалоВыбора</Event>
+			</Events>
 		</InputField>
 		<InputField name="РезультатПреобразования" id="4">
 			<DataPath>Объект.РезультатПреобразования</DataPath>
