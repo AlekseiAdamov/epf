@@ -21,7 +21,7 @@
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.КартинкаВBase64.Form.Форма</DefaultForm>
-			<AuxiliaryForm/>
+			<AuxiliaryForm>ExternalDataProcessor.КартинкаВBase64.Form.ФормаУправляемая</AuxiliaryForm>
 		</Properties>
 		<ChildObjects>
 			<Attribute uuid="a6a647a8-673c-47d6-9986-da1555415968">
